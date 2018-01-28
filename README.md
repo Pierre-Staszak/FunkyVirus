@@ -1,1 +1,1 @@
-# FunkyVirus
+You play as TONY, a little alien hunted by the USA secret agents ! You are lost in a town, and the agents are coming for you. You don't have any weapons, but you can transmit a deadly virus from your planet to kill them. It is known as the FUNKY VIRUS, and the only way to trigger it... is to dance ! Dance for your life ! 
